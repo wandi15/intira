@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <coverage xmlns="http://www.netbeans.org/ns/code-coverage/1" enabled="true"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4">
+        <file>
+            <url>includes/pengajuanspbank.inc.php</url>
+            <bookmark id="3">
+                <name/>
+                <line>969</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>modules/sekertaris_entrysurat/index.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>19</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>modules/bankgaransi/permohonan.php</url>
+            <bookmark id="2">
+                <name/>
+                <line>1274</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/intira/intira-admin/elektonik-id_update.php</file>
+            <file>file:/C:/xampp/htdocs/intira/intira-admin/elektonik-id.php</file>
+            <file>file:/C:/xampp/htdocs/intira/intira-admin/modules/setting_provinsi/list.php</file>
+            <file>file:/C:/xampp/htdocs/intira/intira-admin/index.php</file>
+            <file>file:/C:/xampp/htdocs/intira/intira-admin/modules/setting_provinsi/index.php</file>
+            <file>file:/C:/xampp/htdocs/intira/intira-admin/registrasi.php</file>
+        </group>
+    </open-files>
+</project-private>
